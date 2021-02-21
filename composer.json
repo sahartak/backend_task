@@ -1,0 +1,9 @@
+{
+    "autoload": {
+        "psr-4": {
+            "app\\services\\": "services",
+            "app\\interfaces\\": "interfaces",
+            "app\\models\\": "models"
+        }
+    }
+}
